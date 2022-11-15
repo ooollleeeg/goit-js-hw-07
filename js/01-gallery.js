@@ -34,7 +34,7 @@ function createImageGalery(elements) {
                     />
                 </a>
             </div>`)
-       .join("");
+        .join("");
 }
 
 const imageMarkup = createImageGalery(galleryItems);
